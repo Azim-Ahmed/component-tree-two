@@ -1,0 +1,20 @@
+.nav-section-style {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+a {
+  text-decoration: none;
+}
+.nav-section-style a {
+  color: azure;
+}
+.nav-background_color {
+  background: linear-gradient(to right, rgb(13, 23, 53), rgb(66, 62, 62));
+  padding: 0.18rem 0;
+}
+.No-Service-area {
+  text-align: center;
+  margin-top: 15rem;
+}
