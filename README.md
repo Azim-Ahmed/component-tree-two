@@ -2,4 +2,4 @@
 
 ## See the component tree of this application
 
-![diagram](https://i.ibb.co/hB70M5n/Untitled-Diagram-1.png)
+![diagram](https://i.ibb.co/YdcFrkK/Untitled-Diagram-2.png)
